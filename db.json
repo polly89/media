@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Sleek Frozen Towels",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Wooden Tuna",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Granite Towels",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Bronze Computer",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Oriental Wooden Car",
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "title": "Sleek Fresh Towels",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Frozen Salad",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Cotton Sausages",
+      "id": 21
+    },
+    {
+      "userId": 3,
+      "title": "Incredible Cotton Pizza",
+      "id": 22
+    },
+    {
+      "title": "Small Wooden Bacon",
+      "id": 23
+    },
+    {
+      "title": "Electronic Frozen Hat",
+      "id": 24
+    },
+    {
+      "title": "Incredible Granite Ball",
+      "id": 25
+    },
+    {
+      "title": "Incredible Concrete Mouse",
+      "id": 26
+    },
+    {
+      "title": "Generic Bronze Keyboard",
+      "id": 27
+    },
+    {
+      "title": "Handcrafted Cotton Pizza",
+      "id": 28
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62228",
+      "id": 3
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=79025",
+      "id": 4
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84486",
+      "id": 5
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42376",
+      "id": 6
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=89250",
+      "id": 7
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72958",
+      "id": 8
+    }
+  ]
+}
